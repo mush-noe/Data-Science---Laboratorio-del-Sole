@@ -1,0 +1,33 @@
+.reveal h1 {
+    font-family:'Arial', sans-serif !important;
+    font-size: 3em !important;
+    font-weight: bold !important;
+}
+ 
+/* ── Titolo secondario ───────────────────────────────────────────────────── */
+.reveal h2 {
+    font-family:'Arial', sans-serif !important;
+    font-size: 2em !important;
+    font-weight: bold !important;
+}
+ 
+/* ── Titolo terziario ────────────────────────────────────────────────────── */
+.reveal h3 {
+    font-family: 'Arial', sans-serif !important;
+    font-size: 1.5em !important;
+    font-weight: normal !important;
+}
+ 
+/* ── Paragrafi ─────────────────────────────────────────────────────────── */
+.reveal p {
+    font-family: 'Arial', sans-serif !important;
+    font-size: 1em !important;
+}
+
+.reveal {
+    width: 90% !important;
+}
+
+.reveal .slides {
+    width: 90% !important;
+}
